@@ -14,4 +14,4 @@ python hello.py
 
 ## Autor
 
-Imię Nazwisko, 4TP
+Pavlo Kavkovskyi 4A
